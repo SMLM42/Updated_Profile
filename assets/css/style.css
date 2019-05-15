@@ -198,7 +198,12 @@ footer {
   border: 2px solid #cccccc;
   color: #777777;
 }
-
+.contactlink {
+  font-size: 28pt;
+  color: #4aaaa5 !important;
+  font-weight: bold;
+  text-decoration: underline !important;
+}
 /*This modifies all forms, line height is changed so there is some spcae between the input box and the field name above it*/
 
 form {
